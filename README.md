@@ -16,7 +16,7 @@
 1. Express
 2. mongod
 3. mongoose
-4.ejs
+4. ejs
 
 ...
 
