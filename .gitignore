@@ -1,0 +1,8 @@
+#依赖模块
+node_modules/
+
+#日志文件
+log/
+
+#页面用到的工具and插件
+public/libs/

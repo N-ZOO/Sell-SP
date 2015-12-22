@@ -1,0 +1,23 @@
+{
+  "name": "Sell-SP",
+  "version": "0.0.1",
+  "homepage": "xxxx",
+  "authors": [
+    "xxx@xx.com"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "editor": "lepture/editor#~0.1.0",
+    "font-awesome": "~4.4.0",
+    "metisMenu": "~2.1.0",
+    "moment": "~2.10.6",
+    "PACE": "pace#~1.0.2",
+    "require-css": "~0.1.8",
+    "requirejs": "~2.1.20",
+    "simditor": "~2.3.4"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}
